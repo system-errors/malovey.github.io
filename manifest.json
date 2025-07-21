@@ -1,0 +1,9 @@
+{
+  "short_name": "SYSTEM ERROR",
+  "name": "SYSTEM ERROR - Gonzo-style street art blog",
+  "description": "A gonzo-style street art blog documenting logs found on streets, pasted on walls and signs.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffffff"
+}
