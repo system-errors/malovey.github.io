@@ -28,12 +28,12 @@ const header = {
       sourceCode: 'https://github.com/JosephDrazen/cuhacking_2021',
     },
     {
-      name: 'Suggested isn\'t safe',
+      name: 'Suggested isn\'t safe (WIP)',
       description:
         'A data-driven critique of Ottawa\'s cycling infratructure, analyzing gaps between city-promoted bike routes and real-world safety. Using geospatial data, custom visualizations, and field reserch, this project exposes the systemic flaws hidden beneath \"suggested\" pathways.',
       stack: ['Python', 'React', 'Streamlit', 'Geospatial Data'],
-      sourceCode: 'https://github.com',
-      livePreview: 'https://github.com',
+      sourceCode: 'https://github.com/system-errors/bikelanes',
+      livePreview: 'https://bikelanes-h4kfpz8ppz9r6mlsbpazoi.streamlit.app',
     },
   ]
   
