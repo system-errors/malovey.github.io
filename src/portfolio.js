@@ -33,7 +33,7 @@ const header = {
         'A data-driven critique of Ottawa\'s cycling infratructure, analyzing gaps between city-promoted bike routes and real-world safety. Using geospatial data, custom visualizations, and field reserch, this project exposes the systemic flaws hidden beneath \"suggested\" pathways.',
       stack: ['Python', 'React', 'Streamlit', 'Geospatial Data'],
       sourceCode: 'https://github.com/system-errors/bikelanes',
-      livePreview: 'https://bikelanes.streamlit.app',
+      livePreview: 'https://bikelanes.streamlit.app/',
     },
   ]
   
