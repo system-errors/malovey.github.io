@@ -9,7 +9,7 @@ const header = {
     name: 'Joseph',
     role: 'Full-Stack Software Engineer',
     description:
-      'I approach design and development with a practical mindset shaped by my background in computer science, software engineering, and business. My process is intentional and thoughtful, rooted in clarity, accessibility, and real-world impact. The web is not just a place to display information. It is a medium for expression, a system to question, and a tool to build with care. Whether I’m working on urban mobility, bike infrastructure, or digital tools for social good, I aim to create experiences that are functional, meaningful, and built to last. This studio exists to apply technology and design toward real problems and to support ideas that matter.',
+      'I approach design and development with a practical mindset shaped by my background in computer science, software engineering, and business. My process is intentional and thoughtful, rooted in clarity, accessibility, and real-world impact. The web is not just a place to display information. It is a medium for expression, a system to question, and a tool to build with care. My recent work includes designing a platform that advocates for safer bike infrastructure in my hometown, and building a social impact app during a university hackathon. Each was rooted in the same belief: that good design is civic, thoughtful, and human. This is the foundation for the studio I’m building. A studio committed to using design and code to engage with the world, not escape it. I aim to create experiences that are functional, meaningful, and built to last.',
     resume: '/resume.pdf',
     social: {
       linkedin: 'https://www.linkedin.com/in/josephmalovic/',
@@ -33,7 +33,7 @@ const header = {
         'A data-driven critique of Ottawa\'s cycling infratructure, analyzing gaps between city-promoted bike routes and real-world safety. Using geospatial data, custom visualizations, and field reserch, this project exposes the systemic flaws hidden beneath \"suggested\" pathways.',
       stack: ['Python', 'React', 'Streamlit', 'Geospatial Data'],
       sourceCode: 'https://github.com/system-errors/bikelanes',
-      livePreview: 'https://bikelanes-h4kfpz8ppz9r6mlsbpazoi.streamlit.app',
+      livePreview: 'https://bikelanes.streamlit.app',
     },
   ]
   
