@@ -10,7 +10,7 @@ const header = {
     role: 'Full-Stack Software Engineer',
     description:
       'I approach design and development with a practical mindset shaped by my background in computer science, software engineering, and business. My process is intentional and thoughtful, rooted in clarity, accessibility, and real-world impact. The web is not just a place to display information. It is a medium for expression, a system to question, and a tool to build with care. Whether I’m working on urban mobility, bike infrastructure, or digital tools for social good, I aim to create experiences that are functional, meaningful, and built to last. This studio exists to apply technology and design toward real problems and to support ideas that matter.',
-    resume: 'https://example.com',
+    resume: '/resume.pdf',
     social: {
       linkedin: 'https://www.linkedin.com/in/josephmalovic/',
       github: 'https://github.com/josephdrazen',
